@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://virals.sytes.net/sitemap.xml
+Sitemap: https://virals.sytes.net/sitemap.html
